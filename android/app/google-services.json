@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19239814105",
+    "project_id": "test-d994f",
+    "storage_bucket": "test-d994f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19239814105:android:007d9b73c5bba5d5810fc8",
+        "android_client_info": {
+          "package_name": "com.example.Lucerna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOFYaEEPQcnICEVc4Jxiw3uHXRoc3_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
